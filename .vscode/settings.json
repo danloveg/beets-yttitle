@@ -1,0 +1,12 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.rulers": [
+            99
+        ]
+    },
+    "ruff.nativeServer": "on",
+    "python.analysis.typeCheckingMode": "standard",
+}
